@@ -33,6 +33,6 @@ pause
 exit
 
 :RUN
-ePxoXsbo.efi /BS "222727025612715"
-ePxoXsbo.efi /SU "0D5FC5A4666941F7ADFE0B65A7D47D2A"
+ePxoXsbo.efi /BS unknown
+ePxoXsbo.efi /SU AUTO
 exit
